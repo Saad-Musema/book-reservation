@@ -1,7 +1,7 @@
 {
-  
+
   "name": "admin-dashboard",
-  "homepage": "https://Saad-Musema.github.io/book-reservation",
+  "homepage": "https://saad-musema.github.io/book-reservation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
